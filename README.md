@@ -1,7 +1,7 @@
 - 👋 Olá, sou @Renata-Figueiredo
 - 👀 Sou formada em engenharia civil e adoro tudo que possa facilitar a vida, tanto pessoal como profissional, por isso me interessei pela área de tecnologia.
 - 🌱 Estou ansiosa em aprender sobre programação e poder contribuir em vários projetos.
-- 📫 É possível me achar pelo  :e-mail: renfiglima@gmail.com
+- 📫 É possível me achar pelo: e-mail: renfiglima@gmail.com
                 
 
 <!---
